@@ -14,9 +14,10 @@
 ## Installation:
 - Simply run the index.html file in default browser or access from the deployed page. 
 ## link To Deployed Application:
-Link:
+Link: https://jsinc98.github.io/5DayWeather/
 ## ScreenShot of Deployed Application:
-Link:
+Link: ![image](https://github.com/JSinc98/5DayWeather/assets/123771567/48992d45-96d8-4fba-b559-c6ec1df13711)
+
 ## Built With:
 - Javascript
 - CSS
